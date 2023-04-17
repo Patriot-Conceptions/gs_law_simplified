@@ -1,6 +1,7 @@
 #Surrogacy Law Simplified
 ---
 Welcome to [Surrogacy Law Simplified]!
+
 Surrogacy Law Simplified is a cutting-edge website that simplifies the process of summarizing and explaining contract documents. Users can easily upload their contract document files and use its intuitive interface to summarize or explain each paragraph.
 
 What sets Surrogacy Law Simplified apart is its advanced ChatGPT bot, which serves as a virtual assistant for users looking for additional information and context about their contracts. By leveraging the content of the uploaded contract document as its knowledge base, the ChatGPT bot can provide insightful answers to users' questions and offer valuable insights about the content of the contract.
@@ -38,4 +39,6 @@ This project mostly applied and used
 
 [Surrogacy Law Simplified]: https://surrogacy.carrd.co/
 [Web App Site]: https://gs-law-simplified.vercel.app
+[Contract Parser]: https://gs-law-simplified.vercel.app
+[Benefit Package]: https://gs-law-simplified.vercel.app/sbp
 [Vector Embeddings]: https://platform.openai.com/docs/guides/embeddings/what-are-embeddings
