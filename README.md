@@ -15,11 +15,11 @@ Whether you are a legal professional or simply someone looking to better underst
 3. View by sections and Summarize by paragraphs:
    ![plot](./imgs/contract_summarize.png)
 4. Inquire with Chat GPT
-![plot](./imgs/contract_chat.png)
+   ![plot](./imgs/contract_chat.png)
 5. Upload Surrogate Benefit Package in [Benefit Package],and fill in relevant info:
    ![plot](./imgs/sbp_fill_info.png)
 6. Got payment info table:
-![plot](./imgs/sbp_payments.png)
+   ![plot](./imgs/sbp_payments.png)
 
 ## Features
 This project mostly applied and used 
